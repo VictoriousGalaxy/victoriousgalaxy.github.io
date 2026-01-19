@@ -10,7 +10,7 @@ function getRandomGreeting() {
     "As seen on TV!",
     "doot doot",
     "Cold as ice!",
-    "Made in the US!",
+    "Made in the US! Deployed in the UK!",
     "Made by 3kh0!",
     "Reload the page NOW!",
     "Downloading your passwords...",
@@ -18,6 +18,7 @@ function getRandomGreeting() {
     "WARNING: You may lose braincells if you proceed!",
     "Do you bite your ice cream?",
     "#Relatable",
+    "BRING BACK RAYMAN!",
     "Fortnite is cringe",
     "You got games on your phone?",
     "Powered by hamsters!",
@@ -77,7 +78,7 @@ function getRandomGreeting() {
     "Toss the Turtle is pretty fun",
     "Mission failed, we will get them next time",
     "NUKE INCOMING!",
-    "I spent too much time making these",
+    "I spent too much time making these. Or do I?",
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
